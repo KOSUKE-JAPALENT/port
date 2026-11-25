@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "why-startdash-briefing",
+    "title": "なぜ説明会を設けているのか",
+    "date": "2026-10-19",
+    "description": "個別相談だけにすると届かない人が多い。スタートダッシュ勉強会を入口にしている理由と、90分で伝えている「順番」の話。",
+    "tag": "日記",
+    "excerpt": "個別相談だけにすると届かない人が多い。スタートダッシュ勉強会を入口にしている理由と、90分で伝えている「順番」の話。"
+  },
+  {
+    "slug": "linkedin-overseas-clients-3-steps",
+    "title": "LinkedInで自動的に海外案件を集めまくる方法",
+    "date": "2025-06-10",
+    "description": "プロフィールのキーワード設計、営業ページ化、週2投稿。海外クライアントから仕事が届く状態を作る3ステップ。",
+    "tag": "LinkedIn",
+    "excerpt": "プロフィールのキーワード設計、営業ページ化、週2投稿。海外クライアントから仕事が届く状態を作る3ステップ。"
+  },
+  {
+    "slug": "linkedin-overseas-clients-3-steps",
+    "title": "LinkedInで自動的に海外案件を集めまくる方法",
+    "date": "2025-06-10",
+    "description": "プロフィールのキーワード設計、営業ページ化、週2投稿。海外クライアントから仕事が届く状態を作る3ステップ。",
+    "tag": "LinkedIn",
+    "excerpt": "プロフィールのキーワード設計、営業ページ化、週2投稿。海外クライアントから仕事が届く状態を作る3ステップ。"
+  },
+  {
+    "slug": "README__from_personal",
+    "title": "README__from_personal",
+    "date": "",
+    "description": "",
+    "tag": "",
+    "excerpt": "ポートフォリオ記事（Markdown 正本）\r \r 公開用 HTML は `npm run build:articles` で `articles/` に生成されます。Vercel デプロイ時も同じコマンドが走ります。\r \r 新規記事\r \r 1. `_template.md` を複製して `yyyy-mm-dd-スラッ…"
+  }
+]
